@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : Data Scientist And Data Analysts
 - 📫 How to reach me📧:chethancr55621@gmail.com
 - 😄 Pronouns:HE/HIM
-- ⚡ Fun fact:A pouch potato
+- ⚡ Fun fact: I'm A pouch potato
 
 
 <!---
