@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @chethancr13
+- 👋 Hi, I’m Chethan R
 - 👀 I’m interested in: Data Science And Machine Learning 
 - 🌱 I’m currently learning:Python R Programming Pandas SQL Tableau PowerBi 
-- 💞️ I’m looking to collaborate on : Data Scirntists And Data Analysts
+- 💞️ I’m looking to collaborate on : Data Scientist And Data Analysts
 - 📫 How to reach me📧:chethancr55621@gmail.com
 - 😄 Pronouns:HE/HIM
-- ⚡ Fun fact:
+- ⚡ Fun fact:A pouch potato
+
 
 <!---
 chethancr13/chethancr13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
