@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" alt="Banner" width="100%" />
+</p>
+
+
+
+
+
 - 👋 Hi, I’m Chethan R
 - 👀 I’m interested in: Machine Learning And Deep Learning
 - 🌱 I’m currently learning:Python R Programming Pandas SQL Tableau Skikit Pytorch LLM's 
