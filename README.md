@@ -3,9 +3,8 @@
 
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" alt="Banner" width="100%" />
+  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" alt="Banner" width="80%" />
 </p>
-
 
 
 
