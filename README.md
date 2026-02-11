@@ -10,8 +10,8 @@
 
 
 - 👋 Hi, I’m Chethan R
-- 👀 I’m interested in: Machine Learning And DevOps
-- 🌱 I’m currently learning: CI/CD, Pipelines Architecture,MCP Servers,Jira,API's.
+- 👀 I’m interested in: DATA Engineering And Machine Learning
+- 🌱 I’m currently learning: SQL,Pipelines Architecture,Airflow,Dbd,Spark,MCP Servers.
 - 📫 How to reach me📧:chethancr55621@gmail.com
 - 👀 Portfolio:https://chethancr13.github.io/portfolio/
 - 😄 Pronouns:HE/HIM
