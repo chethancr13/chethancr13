@@ -2,9 +2,8 @@
 
 
 
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif" alt="Banner" width="80%" />
-</p>
+<<!-- Rainy window + laptop -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtxdHRiM2FkbWZ1bWQ4a3B0ZzRqcnVuZzR3eWZ5Z3J3Y3R6eWZ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX6lva/giphy.gif" alt="cozy rain" width="80%" />
 
 
 
